@@ -2,7 +2,7 @@
 
 Hướng Dẫn Đăng Ký Tài Khoản Apple Developer Nếu bạn muốn phát triển và phát hành ứng dụng trên App Store, bạn cần đăng ký tài khoản Apple Developer. Dưới đây là hướng dẫn chi tiết về yêu cầu, tài liệu cần chuẩn bị và các bước thực hiện.
 
-## Tài liệu tham khảo
+## I. Tài liệu tham khảo
 
 Trước khi bắt đầu, hãy tham khảo các tài liệu chính thức của Apple:
 
@@ -51,3 +51,40 @@ Vào trang https://developer.apple.com/programs/enroll/ chọn Start Your Enroll
 Đăng nhập bằng Apple ID (nằm trong tổ chức) của người chịu trách nhiệm tài khoản. Nếu bạn đang đăng nhập trên một thiết bị Apple, sẽ có một popup yêu cầu xác thực hai bước (Two-Factor Authentication). Nhập mã xác thực được gửi đến thiết bị Apple đã đăng ký.
 
 🔹 Bước 3: Điền thông tin cá nhân hoặc tổ chức
+
+![Image](images/buoc3.png)
+
+Bạn sẽ cần nhập các thông tin sau:
+
+Tên đầy đủ của chủ tài khoản. Địa chỉ email liên kết với Apple ID. Số điện thoại liên hệ. Loại tài khoản (Cá nhân hoặc Tổ chức). 
+
+🔸 Lưu ý:
+
+Nếu chọn Company / Organization, bạn sẽ cần nhập số D-U-N-S. Tên tổ chức phải trùng khớp với thông tin đăng ký D-U-N-S, nếu không đơn đăng ký có thể bị từ chối.
+
+🔹 Bước 4: Chọn loại tài khoản phù hợp
+
+Company / Organizations 
+
+![image](https://github.com/user-attachments/assets/5e355ae6-88e3-4d7a-b1f2-79f7c46499a7)
+
+🔹 Bước 5: Điền số D.U.N.S
+
+![image](https://github.com/user-attachments/assets/2e1974ec-58f1-41fc-a5e9-e8ab0d3af0d4)
+
+🔹 Bước 6: Nhập đầy đủ thông tin của doanh nghiệp vào form
+
+![image](https://github.com/user-attachments/assets/ca7c65de-cf8b-4bf6-8fce-2f65cdda5587)
+
+🔹 Bước 7: Khi gửi yêu cầu thành công sẽ có kết quả như ảnh dưới Apple sẽ xác minh yêu cầu đăng ký của bạn
+
+![image](https://github.com/user-attachments/assets/1d8df165-d70f-4a61-bfac-33960b221aec)
+
+🔹 Bước 8: Khi đã xác minh xong apple sẽ gửi email thanh toán về mail đăng ký khi đó bạn sẽ tiến hành thanh toán cho tài khoản( sẽ mất 1 - 2 ngày)
+
+![image](https://github.com/user-attachments/assets/866066b1-997c-4c5d-bdec-a7c2d0ccb759)
+
+## IV. Kiểm Tra Trạng Thái Đăng Ký
+ 
+Sau khi đăng ký, bạn có thể kiểm tra trạng thái tại:
+🔗 https://developer.apple.com/account/
